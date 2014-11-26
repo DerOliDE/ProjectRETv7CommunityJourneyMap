@@ -1,0 +1,17 @@
+{
+  "id": "Cubus199_176,65,412",
+  "name": "Cubus199",
+  "icon": "waypoint-normal.png",
+  "x": 176,
+  "y": 65,
+  "z": 412,
+  "r": 200,
+  "g": 255,
+  "b": 200,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Kevinstekkit_-947,74,406",
+  "name": "Kevinstekkit",
+  "icon": "waypoint-normal.png",
+  "x": -947,
+  "y": 74,
+  "z": 406,
+  "r": 200,
+  "g": 255,
+  "b": 200,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

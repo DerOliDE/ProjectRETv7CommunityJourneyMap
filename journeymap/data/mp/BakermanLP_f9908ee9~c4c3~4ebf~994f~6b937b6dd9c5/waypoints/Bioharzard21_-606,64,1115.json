@@ -1,0 +1,17 @@
+{
+  "id": "Bioharzard21_-606,64,1115",
+  "name": "Bioharzard21",
+  "icon": "waypoint-normal.png",
+  "x": -606,
+  "y": 64,
+  "z": 1115,
+  "r": 200,
+  "g": 255,
+  "b": 200,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Murti \u0026 Wallace - Sommerresidenz_-635,64,19",
+  "name": "Murti \u0026 Wallace - Sommerresidenz",
+  "icon": "waypoint-normal.png",
+  "x": -635,
+  "y": 64,
+  "z": 19,
+  "r": 200,
+  "g": 255,
+  "b": 200,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

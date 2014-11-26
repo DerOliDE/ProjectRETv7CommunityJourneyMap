@@ -1,0 +1,17 @@
+{
+  "id": "DerOli82 - Sommerresidenz_326,70,376",
+  "name": "DerOli82 - Sommerresidenz",
+  "icon": "waypoint-normal.png",
+  "x": 326,
+  "y": 70,
+  "z": 376,
+  "r": 200,
+  "g": 255,
+  "b": 200,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

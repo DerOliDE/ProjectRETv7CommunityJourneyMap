@@ -1,0 +1,17 @@
+{
+  "id": "Mihla_143,69,140",
+  "name": "Mihla",
+  "icon": "waypoint-normal.png",
+  "x": 143,
+  "y": 69,
+  "z": 140,
+  "r": 200,
+  "g": 255,
+  "b": 200,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

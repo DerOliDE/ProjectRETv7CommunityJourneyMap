@@ -1,0 +1,17 @@
+{
+  "id": "Saphira_106,65,451",
+  "name": "Saphira",
+  "icon": "waypoint-normal.png",
+  "x": 106,
+  "y": 65,
+  "z": 451,
+  "r": 200,
+  "g": 255,
+  "b": 200,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Raupe_Lizard_-1648,64,1871",
+  "name": "Raupe_Lizard",
+  "icon": "waypoint-normal.png",
+  "x": -1648,
+  "y": 64,
+  "z": 1871,
+  "r": 200,
+  "g": 255,
+  "b": 200,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

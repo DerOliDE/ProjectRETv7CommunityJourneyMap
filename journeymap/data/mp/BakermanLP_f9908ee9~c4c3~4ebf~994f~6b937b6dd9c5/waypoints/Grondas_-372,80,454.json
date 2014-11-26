@@ -1,0 +1,17 @@
+{
+  "id": "Grondas_-372,80,454",
+  "name": "Grondas",
+  "icon": "waypoint-normal.png",
+  "x": -372,
+  "y": 80,
+  "z": 454,
+  "r": 200,
+  "g": 255,
+  "b": 200,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

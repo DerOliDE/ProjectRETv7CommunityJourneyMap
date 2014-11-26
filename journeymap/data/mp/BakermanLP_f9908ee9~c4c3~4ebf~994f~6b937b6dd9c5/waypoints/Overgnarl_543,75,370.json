@@ -1,0 +1,17 @@
+{
+  "id": "Overgnarl_543,75,370",
+  "name": "Overgnarl",
+  "icon": "waypoint-normal.png",
+  "x": 543,
+  "y": 75,
+  "z": 370,
+  "r": 200,
+  "g": 255,
+  "b": 200,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

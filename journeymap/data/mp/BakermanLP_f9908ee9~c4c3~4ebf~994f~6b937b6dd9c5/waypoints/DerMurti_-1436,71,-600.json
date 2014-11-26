@@ -1,0 +1,17 @@
+{
+  "id": "DerMurti_-1436,71,-600",
+  "name": "DerMurti",
+  "icon": "waypoint-normal.png",
+  "x": -1436,
+  "y": 71,
+  "z": -600,
+  "r": 200,
+  "g": 255,
+  "b": 200,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

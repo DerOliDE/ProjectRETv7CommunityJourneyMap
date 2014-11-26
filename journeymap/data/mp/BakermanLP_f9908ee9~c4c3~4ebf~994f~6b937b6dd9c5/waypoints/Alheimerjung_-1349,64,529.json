@@ -1,0 +1,17 @@
+{
+  "id": "Alheimerjung_-1349,64,529",
+  "name": "Alheimerjung",
+  "icon": "waypoint-normal.png",
+  "x": -1349,
+  "y": 64,
+  "z": 529,
+  "r": 200,
+  "g": 255,
+  "b": 200,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

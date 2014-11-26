@@ -1,0 +1,17 @@
+{
+  "id": "Feirons_-845,64,-109",
+  "name": "Feirons",
+  "icon": "waypoint-normal.png",
+  "x": -845,
+  "y": 64,
+  "z": -109,
+  "r": 200,
+  "g": 255,
+  "b": 200,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

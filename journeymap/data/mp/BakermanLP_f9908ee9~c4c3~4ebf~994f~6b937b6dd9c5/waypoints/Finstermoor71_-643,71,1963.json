@@ -1,0 +1,17 @@
+{
+  "id": "Finstermoor71_-643,71,1963",
+  "name": "Finstermoor71",
+  "icon": "waypoint-normal.png",
+  "x": -643,
+  "y": 71,
+  "z": 1963,
+  "r": 200,
+  "g": 255,
+  "b": 200,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

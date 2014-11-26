@@ -1,0 +1,17 @@
+{
+  "id": "CrysisPsycho_-48,74,-804",
+  "name": "CrysisPsycho",
+  "icon": "waypoint-normal.png",
+  "x": -48,
+  "y": 74,
+  "z": -804,
+  "r": 200,
+  "g": 255,
+  "b": 200,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

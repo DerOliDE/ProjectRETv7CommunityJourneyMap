@@ -1,0 +1,17 @@
+{
+  "id": "Lahnos_-650,79,458",
+  "name": "Lahnos",
+  "icon": "waypoint-normal.png",
+  "x": -650,
+  "y": 79,
+  "z": 458,
+  "r": 200,
+  "g": 255,
+  "b": 200,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

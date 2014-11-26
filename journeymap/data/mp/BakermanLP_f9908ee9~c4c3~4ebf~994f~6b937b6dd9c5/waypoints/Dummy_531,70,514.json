@@ -1,0 +1,17 @@
+{
+  "id": "Dummy_531,70,514",
+  "name": "Dummy",
+  "icon": "waypoint-normal.png",
+  "x": 531,
+  "y": 70,
+  "z": 514,
+  "r": 200,
+  "g": 255,
+  "b": 200,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

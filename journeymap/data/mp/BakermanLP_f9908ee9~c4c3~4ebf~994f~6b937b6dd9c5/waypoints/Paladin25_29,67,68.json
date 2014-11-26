@@ -1,0 +1,17 @@
+{
+  "id": "Paladin25_29,67,68",
+  "name": "Paladin25",
+  "icon": "waypoint-normal.png",
+  "x": 29,
+  "y": 67,
+  "z": 68,
+  "r": 200,
+  "g": 255,
+  "b": 200,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

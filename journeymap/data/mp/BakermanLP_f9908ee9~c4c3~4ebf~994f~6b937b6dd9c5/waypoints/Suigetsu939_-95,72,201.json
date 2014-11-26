@@ -1,0 +1,17 @@
+{
+  "id": "Suigetsu939_-95,72,201",
+  "name": "Suigetsu939",
+  "icon": "waypoint-normal.png",
+  "x": -95,
+  "y": 72,
+  "z": 201,
+  "r": 200,
+  "g": 255,
+  "b": 200,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

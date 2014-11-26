@@ -1,0 +1,17 @@
+{
+  "id": "Lum8erj4ck_-336,65,-1135",
+  "name": "Lum8erj4ck",
+  "icon": "waypoint-normal.png",
+  "x": -336,
+  "y": 65,
+  "z": -1135,
+  "r": 200,
+  "g": 255,
+  "b": 200,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Butze \u0026 Baker_-695,82,242",
+  "name": "Butze \u0026 Baker",
+  "icon": "waypoint-normal.png",
+  "x": -695,
+  "y": 82,
+  "z": 242,
+  "r": 200,
+  "g": 255,
+  "b": 200,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

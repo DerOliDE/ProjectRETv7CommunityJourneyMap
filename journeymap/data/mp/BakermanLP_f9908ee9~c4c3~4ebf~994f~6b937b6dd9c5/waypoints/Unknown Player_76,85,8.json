@@ -1,0 +1,17 @@
+{
+  "id": "Unknown Player_76,85,8",
+  "name": "Unknown Player",
+  "icon": "waypoint-normal.png",
+  "x": 76,
+  "y": 85,
+  "z": 8,
+  "r": 200,
+  "g": 255,
+  "b": 200,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}
